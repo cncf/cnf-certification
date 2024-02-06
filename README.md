@@ -1,4 +1,4 @@
-# CNF Certification is now part of the Cloud Native Telcom Initiative's test catalog focus area @ https://github.com/cnti-testcatalog/testsuite 
+# CNF Certification is now part of the Cloud Native Telcom Initiative's test catalog focus area @ [https://github.com/cnti-testcatalog/testsuite](https://github.com/lfn-cnti/certification)
 
 The CNF Test Suite (as well as the CNF WG and CNF Certification) have moved to Linux Foundation Networking as part of the new Cloud Native Telecom Initiative.
 
